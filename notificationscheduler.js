@@ -6,7 +6,7 @@ const axios = require("axios")
 const dotenv = require('dotenv');
 const { forEach } = require('lodash');
 dotenv.config()
-API_key = "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"
+API_key = "" // internship_6th_Sem/note -> aa file ma key che e aaya paste karvani che.
 const sgMail = require('@sendgrid/mail')
 sgMail.setApiKey(API_key)
 
